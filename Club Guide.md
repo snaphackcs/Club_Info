@@ -2,11 +2,14 @@
 
 ## Tools
 
-Algorithms	*Keep talking and nobody explodes*
+Algorithms             
+  *Keep talking and nobody explodes*
 
-How to diagnose/debug	*Github*
+How to diagnose/debug   
+  *Github*
 
-Syntax	*Markdown*
+Syntax                
+  *Markdown*
 
 ## Facts
 
@@ -16,7 +19,8 @@ Different Ports
 
 Information Theory
 
-Different Format of Files	*.pdf, .jpg, .mp3, etc.*
+Different Format of Files	
+  *.pdf, .jpg, .mp3, etc.*
 
 Machine Learning
 
@@ -30,9 +34,11 @@ NAS
 
 ## Softwares
 
-Basic Programming	*Programming Languages, Syntax, Compiler, etc.*
+Basic Programming	
+  *Programming Languages, Syntax, Compiler, etc.*
 
-Build my personal website	*Design*?
+Build my personal website	
+  *Design*?
 
 Web Crawler
 
